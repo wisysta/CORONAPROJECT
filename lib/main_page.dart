@@ -1,7 +1,9 @@
-import 'package:corona_project/server_api.dart';
+import 'package:corona_project/widgets/Youtube.dart';
 import 'package:flutter/material.dart';
 import 'widgets/ArticlePage.dart';
 import 'widgets/Statement.dart';
+import 'widgets/Hero.dart';
+import 'widgets/Youtube.dart';
 
 class MainPage extends StatefulWidget {
   @override
@@ -11,14 +13,11 @@ class MainPage extends StatefulWidget {
 class _MainPageState extends State<MainPage> {
   int _selectedIndex = 0;
 
-  static List<Widget> _widgetOptions = <Widget>[
+  List<Widget> _widgetOptions = <Widget>[
     Statement(),
     ArticlePage(),
-    Container(
-      color: Colors.primaries[2],
-    ),
-    HttpApp(
-    ),
+    HeroPage(),
+    Youtube(),
   ];
 
   @override
@@ -64,7 +63,7 @@ class _MainPageState extends State<MainPage> {
       {String activeIconPath, String iconPath, String iconName}) {
     return BottomNavigationBarItem(
       activeIcon:
-          activeIconPath == null ? null : ImageIcon(AssetImage(activeIconPath)),
+      activeIconPath == null ? null : ImageIcon(AssetImage(activeIconPath)),
       icon: ImageIcon(AssetImage(iconPath)),
       title: Text(
         iconName,
@@ -78,4 +77,7 @@ class _MainPageState extends State<MainPage> {
       _selectedIndex = index;
     });
   }
+
+
 }
+

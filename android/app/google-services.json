@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413741652594",
+    "firebase_url": "https://coronaproject-4f4e4.firebaseio.com",
+    "project_id": "coronaproject-4f4e4",
+    "storage_bucket": "coronaproject-4f4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413741652594:android:8ee63cfd887a39c4d000eb",
+        "android_client_info": {
+          "package_name": "com.awesomecastle.corona_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413741652594-hk5ncj03qskf7cka942s0gmqadfhn40m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuxPNEaZdMfkUGCXKiFNWHSF38YpPcphM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413741652594-hk5ncj03qskf7cka942s0gmqadfhn40m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413741652594-nn7obj5148fedudmca2uo07l4o8p2hf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomecastle.coronaProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

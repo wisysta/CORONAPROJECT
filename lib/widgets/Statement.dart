@@ -1,4 +1,3 @@
-import 'package:admob_flutter/admob_flutter.dart';
 import 'package:corona_project/const/coronaFont12Black.dart';
 import 'package:corona_project/const/coronaFont12Pink.dart';
 import 'package:corona_project/const/text_style2.dart';

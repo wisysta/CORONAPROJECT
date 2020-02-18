@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-               BuildableName = "CoronaTerminator.app"
+               BuildableName = "&#x110f;&#x1169;&#x1105;&#x1169;&#x1102;&#x1161; &#x110c;&#x1169;&#x11bc;&#x1100;&#x1167;&#x11af;&#x110c;&#x1161;.app"
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +31,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-            BuildableName = "CoronaTerminator.app"
+            BuildableName = "&#x110f;&#x1169;&#x1105;&#x1169;&#x1102;&#x1161; &#x110c;&#x1169;&#x11bc;&#x1100;&#x1167;&#x11af;&#x110c;&#x1161;.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -54,7 +54,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-            BuildableName = "CoronaTerminator.app"
+            BuildableName = "&#x110f;&#x1169;&#x1105;&#x1169;&#x1102;&#x1161; &#x110c;&#x1169;&#x11bc;&#x1100;&#x1167;&#x11af;&#x110c;&#x1161;.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -71,7 +71,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-            BuildableName = "CoronaTerminator.app"
+            BuildableName = "&#x110f;&#x1169;&#x1105;&#x1169;&#x1102;&#x1161; &#x110c;&#x1169;&#x11bc;&#x1100;&#x1167;&#x11af;&#x110c;&#x1161;.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
